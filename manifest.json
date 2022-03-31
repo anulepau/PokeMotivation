@@ -1,0 +1,14 @@
+{
+    "name": "PokeMotivation",
+    "version": "1.0.0",
+    "description": "pokemon encourage you while you code",
+    "manifest_version": 3,
+    "author": "Alexander Zambrano, Anu Sharma",
+    "icons": {
+        "128": "pikachu-icon.png"
+    },
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "PokeMotivation"
+    }
+}
