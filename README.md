@@ -4,4 +4,6 @@ A Chrome extension that, on click, brings Pokemon right to your screen with an e
 
 ## How to Use
 
+![pokemotivation](./pokemotivation.gif)
+
 After download, go to Chrome >> Manage Extensions >> Toggle to select "Developer Mode" >> Click "Load Unpacked" and upload the entire folder. 
