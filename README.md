@@ -1,6 +1,6 @@
 ## PokeMotivation
 
-A Chrome extension that, on click, brings Pokemon right to your screen with an encouraging message to get through your day.
+A Chrome extension that, on click, fetches one out of 1000+ Pokemon right to the screen with an encouraging message (based on its type) to help developers get through your day.
 
 ## How to Use
 
