@@ -1,6 +1,7 @@
 ## PokeMotivation
 
-![espeon](./pokemotivation-espeon.png)
+![pokemotivation-espeon](./pokemotivation-espeon.png)
+
 A Chrome extension that, on click, fetches one out of 1000+ Pokemon right to the screen with an encouraging message (based on its type) to help developers get through your day.
 
 ## How to Use
